@@ -1,0 +1,13 @@
+body
+{
+    background-color: rgb(58, 120, 167);
+    color: azure;
+}
+input
+{
+    width: 50px;
+}
+button
+{
+    margin-left: 130px;
+}
